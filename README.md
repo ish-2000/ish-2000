@@ -1,4 +1,4 @@
-![{B3A4D788-13B9-4DE1-8BF5-9351F8133702}](https://github.com/user-attachments/assets/6fb2bfd9-88a5-4569-94d2-e0458b063bed)👋 About Me
+👋 About Me
 Hey there! I'm a software developer with a passion for building efficient, user-friendly applications. I love turning ideas into real-world solutions through code and design. Here’s a bit more about me:
 
 🎨 UI/UX Designer:
