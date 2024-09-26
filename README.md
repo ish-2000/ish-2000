@@ -13,6 +13,7 @@ Languages: JavaScript, Python, C#, Java, PHP, C++, HTML5/CSS3
 Frameworks & Libraries: React.js, Node.js, Express.js, Bootstrap, jQuery
 Mobile Development: React Native, Flutter, Android Studio
 Development Areas: Frontend Development, Backend Development, UI/UX Design
+
 📚 Learning:
 Currently focusing on improving my mobile app development skills with React Native and Flutter, while also exploring full-stack development.
 
