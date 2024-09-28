@@ -3,11 +3,9 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
-    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px"/>
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: auto;"/>
   </a>
 </p>
-
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ish-2000&label=Profile%20views&color=0e75b6&style=flat" alt="ish-2000" /> </p>
 
