@@ -14,7 +14,7 @@
   
  </td>
 <td width="100%" align="left">
-   <p align="cenetr" ><img  src = "https://gpvc.arturio.dev/Sumanth-Talluri" width = 150px></p>
+   <p align="cenetr" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
 </td>
 </tr>
 </table>
