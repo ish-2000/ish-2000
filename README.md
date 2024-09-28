@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="100px" style="width: 800px;"/>
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: 800px;"/>
   </a>
 </p>
 
