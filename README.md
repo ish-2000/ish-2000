@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ishara Udayanga</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: 1000px;"/>ioiohui
-</p>
+<div style="position: relative; text-align: center; width: 1000px;">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: 1000px;">
+  </p>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px;">
+    Your Custom Text Here
+  </div>
+</div>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ish-2000&label=Profile%20views&color=0e75b6&style=flat" alt="ish-2000" /> </p>
 
