@@ -3,6 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ish-2000&label=Profile%20views&color=0e75b6&style=flat" alt="ish-2000" /> </p>
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: 1000px;"/>
+</p>
+
 <table align="center">
 <tr border="none">
 <td width="100%" align="left">
@@ -18,11 +22,6 @@
 </td>
 </tr>
 </table>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: 1000px;"/>
-</p>
-
 
 ---
 
