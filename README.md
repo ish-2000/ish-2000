@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
-    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: auto;"/>
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="200px" style="width: 600px;"/>
   </a>
 </p>
 
