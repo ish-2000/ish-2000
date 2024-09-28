@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ishara Udayanga</h1>
 <h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
+    <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG" height="300px"/>
+  </a>
+</p>
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ish-2000&label=Profile%20views&color=0e75b6&style=flat" alt="ish-2000" /> </p>
