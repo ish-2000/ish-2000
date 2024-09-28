@@ -7,7 +7,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ish-2000&label=Profile%20views&color=0e75b6&style=flat" alt="ish-2000" /> </p>
 
-<table align="center width="100%">
+<table align="center>
 <tr border="none">
 <td width="100%" align="left">
 
