@@ -9,12 +9,12 @@
 
 - 🌱 I’m currently learning *Next Js*
 - 🧑‍🎓 I’m an Undergraduate at *SLIIT*
-- 📫 How to reach me *ish-2000@gmail.com*
+- 📫 How to reach me *ish-1000@gmail.com*
 -  ⚡ Fun fact *Call me as Tinu*
   
  </td>
 <td width="100%" align="left">
-   <p align="cenetr" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
+   <p align="cenetr" ><img  src = "https://gpvc.arturio.dev/Sumanth-Talluri" width = 150px></p>
 </td>
 </tr>
 </table>
@@ -45,7 +45,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/ish-2000/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/23090804/ish-1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/23090804/ish-2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
 <a href="https://fb.com/ish-2000" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /> </a>
 <a href="https://instagram.com/ish-2000" target="blank"> <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /> </a>
 </p>
