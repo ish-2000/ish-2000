@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Next Js
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
 - 📫 How to reach me ish-1000@gmail.com
--  ⚡ Fun fact Call me as Tinu
+-  ⚡"Every great project starts with a cup of coffee ☕
   
  </td>
 <td width="100%" align="left">
