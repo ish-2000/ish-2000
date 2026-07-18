@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Next Js
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
-- 📫 How to reach me ish-1000@gmail.com
+- 📫 How to reach me isharaudayanga1000@gmail.com
 -  ⚡"Every great project starts with a cup of coffee ☕
   
  </td>
